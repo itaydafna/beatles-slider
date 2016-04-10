@@ -13,7 +13,7 @@ img{
 }
 .slider{
   width:300px;
-  overflow:scroll;
+  overflow: hidden;
 }
 div{
   margin:auto;
