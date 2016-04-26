@@ -1,5 +1,3 @@
-# beatles-slider
-yo! just checking if this will effect the readme file on my master folder...
-now let's add some cat emojis:
+#[Checkout my Beatles Slider....:beetle::beetle::beetle::beetle:][1]
 
-:cat2::cat::cat2::cat::cat2::cat::cat2::cat::cat2:
+[1] : https://itaydafna.github.io/beatles-slider
