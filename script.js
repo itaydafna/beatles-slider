@@ -13,5 +13,4 @@ function togglePic() {
 	}
 };
 document.getElementById('beatles').addEventListener("click", togglePic);
-
-console.log('this workded! :)');
+console.log('is this still working?')
