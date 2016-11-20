@@ -13,3 +13,5 @@ function togglePic() {
 	}
 };
 document.getElementById('beatles').addEventListener("click", togglePic);
+
+console.log('this workded! :)');
